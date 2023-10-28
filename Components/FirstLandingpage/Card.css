@@ -1,0 +1,167 @@
+.box1 {
+  position: relative;
+  width: 250px;
+  height: 100px;
+  font-weight: 700;
+  text-align: center;
+  justify-content: center;
+  background: #FFFFFF;
+  border: 1px solid #E6E6E6;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.shape {
+  position: absolute;
+  top: -70px;
+  right: 50px;
+  left: 75px;
+  width: 100px;
+  height: 100px;
+  padding-top: 30px;
+}
+
+.subText {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+
+}
+
+.subHeading {
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.headingText1,
+.boxAnimation {
+  animation: effect1 5s ease infinite;
+}
+
+.headingText2,
+.boxAnimation2 {
+  animation: effect2 5s ease infinite;
+}
+
+.headingText3,
+.boxAnimation3 {
+  animation: effect3 5s ease infinite;
+}
+
+.headingText4,
+.boxAnimation4 {
+  animation: effect4 5s ease infinite;
+}
+
+@keyframes effect1 {
+  0% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  25% {
+    color: #F48220;
+    border-color: #F48220;
+    border-width: 3px;
+  }
+
+  50% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  75% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  100% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+}
+
+@keyframes effect2 {
+  0% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  25% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  50% {
+    color: #F48220;
+    border-color: #F48220;
+    border-width: 3px;
+  }
+
+  75% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  100% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+}
+
+@keyframes effect3 {
+  0% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  25% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  50% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  75% {
+    color: #F48220;
+    border-color: #F48220;
+    border-width: 3px;
+  }
+
+  100% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+}
+
+@keyframes effect4 {
+  0% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  25% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  50% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  75% {
+    color: #000;
+    border-color: #E6E6E6
+  }
+
+  100% {
+    color: #F48220;
+    border-color: #F48220;
+    border-width: 3px;
+  }
+}

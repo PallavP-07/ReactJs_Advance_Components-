@@ -1,0 +1,1667 @@
+{
+    "status": 200,
+    "response": {
+        "match": [
+            {
+                "matchInfo": {
+                    "id": "zbe055a1sbhicxf7x2ifenmc",
+                    "coverageLevel": "15",
+                    "date": "2022-12-02Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-12-02",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-27T17:35:06Z",
+                    "description": "Serbia vs Switzerland",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b6977bz0bribm52ke6ll5o4q",
+                        "formatId": "ckw6rfrzidje6ggngkljf8e6t",
+                        "name": "Group G"
+                    },
+                    "contestant": [
+                        {
+                            "id": "2ome9qbio8c3r9lmhx2hg6kif",
+                            "name": "Serbia",
+                            "shortName": "Serbia",
+                            "officialName": "Serbia",
+                            "code": "SRB",
+                            "position": "home",
+                            "country": {
+                                "id": "5w4ve503bjdsshwx9ho6jxzx0",
+                                "name": "Serbia"
+                            }
+                        },
+                        {
+                            "id": "339wxbt07ltnva7hop6m5o477",
+                            "name": "Switzerland",
+                            "shortName": "Switzerland",
+                            "officialName": "Switzerland",
+                            "code": "SUI",
+                            "position": "away",
+                            "country": {
+                                "id": "3bh70jgvc5mn58x0byjkuda17",
+                                "name": "Switzerland"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "ccxksc0gfqdkylx68cq5pqpuy",
+                        "neutral": "yes",
+                        "longName": "Stadium 974",
+                        "shortName": "Stadium 974"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "f21bfvqoobo8znffsl14c1wd0",
+                    "coverageLevel": "15",
+                    "date": "2022-12-02Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-12-02",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-10-13T18:52:11Z",
+                    "description": "Cameroon vs Brazil",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b6977bz0bribm52ke6ll5o4q",
+                        "formatId": "ckw6rfrzidje6ggngkljf8e6t",
+                        "name": "Group G"
+                    },
+                    "contestant": [
+                        {
+                            "id": "b6ojzaz5yyr6dkrj284hrhhs1",
+                            "name": "Cameroon",
+                            "shortName": "Cameroon",
+                            "officialName": "Cameroon",
+                            "code": "CMR",
+                            "position": "home",
+                            "country": {
+                                "id": "4eb9feio6u267dd1jcwaf38mt",
+                                "name": "Cameroon"
+                            }
+                        },
+                        {
+                            "id": "ajab3nmpoltsoeqcuoyi4pwzx",
+                            "name": "Brazil",
+                            "shortName": "Brazil",
+                            "officialName": "Brazil",
+                            "code": "BRA",
+                            "position": "away",
+                            "country": {
+                                "id": "2vufyvpoxd9lfl9f6vpp7tz6y",
+                                "name": "Brazil"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "5cq7hv0jvig8sx92r7weceh62",
+                        "neutral": "yes",
+                        "longName": "Lusail Iconic Stadium",
+                        "shortName": "Lusail Iconic Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "6vt7yejfbrvo2d80lsem3rz84",
+                    "coverageLevel": "15",
+                    "date": "2022-12-02Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-12-02",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-21T17:34:48Z",
+                    "description": "Ghana vs Uruguay",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b7aed2o7jq1huldd1gijt9wq",
+                        "formatId": "cmb6lscxiyticnqnsarymfkr9",
+                        "name": "Group H"
+                    },
+                    "contestant": [
+                        {
+                            "id": "9bix8nlt6cgbson25qntg2zzh",
+                            "name": "Ghana",
+                            "shortName": "Ghana",
+                            "officialName": "Ghana",
+                            "code": "GHA",
+                            "position": "home",
+                            "country": {
+                                "id": "2q2sw72utw5gu9t5y4knckwba",
+                                "name": "Ghana"
+                            }
+                        },
+                        {
+                            "id": "9l06impjllgop0gte8fldb4zo",
+                            "name": "Uruguay",
+                            "shortName": "Uruguay",
+                            "officialName": "Uruguay",
+                            "code": "URU",
+                            "position": "away",
+                            "country": {
+                                "id": "286fwlvd6dzntv6ewv3cyvb0p",
+                                "name": "Uruguay"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7or95b84kjah4tlr61yvhj622",
+                        "neutral": "yes",
+                        "longName": "Al Janoub Stadium",
+                        "shortName": "Al Janoub Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "652o3vvt04ttpwarfxgq9sduc",
+                    "coverageLevel": "15",
+                    "date": "2022-12-02Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-12-02",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T10:25:23Z",
+                    "description": "Korea Republic vs Portugal",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b7aed2o7jq1huldd1gijt9wq",
+                        "formatId": "cmb6lscxiyticnqnsarymfkr9",
+                        "name": "Group H"
+                    },
+                    "contestant": [
+                        {
+                            "id": "1yghbv1c71b37eenutbwnvvq",
+                            "name": "Korea Republic",
+                            "shortName": "Korea Rep",
+                            "officialName": "Korea Republic",
+                            "code": "KOR",
+                            "position": "home",
+                            "country": {
+                                "id": "4vzpxtqkiwx0puygnmayr74di",
+                                "name": "Korea Republic"
+                            }
+                        },
+                        {
+                            "id": "8gxg8f7p9299jbrz30u8bsc7g",
+                            "name": "Portugal",
+                            "shortName": "Portugal",
+                            "officialName": "Portugal",
+                            "code": "POR",
+                            "position": "away",
+                            "country": {
+                                "id": "1nbm5i9a0403zzvltn17lxinc",
+                                "name": "Portugal"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7qbg8it4erprkiep3asif0i22",
+                        "neutral": "yes",
+                        "longName": "Education City Stadium",
+                        "shortName": "Education City Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "3wbczxf9wmb7k14wv22y8ocno",
+                    "coverageLevel": "15",
+                    "date": "2022-12-01Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-12-01",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T18:09:17Z",
+                    "description": "Costa Rica vs Germany",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b47c0e49nsslmm813hgxxd9m",
+                        "formatId": "cjtgc63nsarjt7p60xkcnillh",
+                        "name": "Group E"
+                    },
+                    "contestant": [
+                        {
+                            "id": "bfgqfm4qa3mal7fll74wd04mu",
+                            "name": "Costa Rica",
+                            "shortName": "Costa Rica",
+                            "officialName": "Costa Rica",
+                            "code": "CRC",
+                            "position": "home",
+                            "country": {
+                                "id": "48emauy3fucokp86skcs5alh8",
+                                "name": "Costa Rica"
+                            }
+                        },
+                        {
+                            "id": "3l2t2db0c5ow2f7s7bhr6mij4",
+                            "name": "Germany",
+                            "shortName": "Germany",
+                            "officialName": "Germany",
+                            "code": "GER",
+                            "position": "away",
+                            "country": {
+                                "id": "36min0qztu8eydwvpv8t1is0m",
+                                "name": "Germany"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "4qp4xb6wue95zgjwkt9tx0rmx",
+                        "neutral": "yes",
+                        "longName": "Al Bayt Stadium",
+                        "shortName": "Al Bayt Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "36zgyts8t2qzgz1cd56gm740k",
+                    "coverageLevel": "15",
+                    "date": "2022-12-01Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-12-01",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-21T06:19:33Z",
+                    "description": "Japan vs Spain",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b47c0e49nsslmm813hgxxd9m",
+                        "formatId": "cjtgc63nsarjt7p60xkcnillh",
+                        "name": "Group E"
+                    },
+                    "contestant": [
+                        {
+                            "id": "6duaxcbrofil112qfq4v895go",
+                            "name": "Japan",
+                            "shortName": "Japan",
+                            "officialName": "Japan",
+                            "code": "JPN",
+                            "position": "home",
+                            "country": {
+                                "id": "lxyibh89lpdc0bfian1nx0xq",
+                                "name": "Japan"
+                            }
+                        },
+                        {
+                            "id": "eh7yt2x2wck51oixw8012ux5j",
+                            "name": "Spain",
+                            "shortName": "Spain",
+                            "officialName": "Spain",
+                            "code": "ESP",
+                            "position": "away",
+                            "country": {
+                                "id": "49ih1pwv3ahshdf8uzrimi54c",
+                                "name": "Spain"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "x2io384gn9dj0kya08mj5k1u",
+                        "neutral": "yes",
+                        "longName": "Khalifa International Stadium",
+                        "shortName": "Khalifa International Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "arodjol3unw5v1mepv0mnlq1g",
+                    "coverageLevel": "15",
+                    "date": "2022-12-01Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-12-01",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-22T06:30:35Z",
+                    "description": "Canada vs Morocco",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b55kgufahji5uz4rq0ps920a",
+                        "formatId": "ckc8s9q7mlwzwp8hhr4s5ds5x",
+                        "name": "Group F"
+                    },
+                    "contestant": [
+                        {
+                            "id": "eg7vduna0h3vis1wd47s41za7",
+                            "name": "Canada",
+                            "shortName": "Canada",
+                            "officialName": "Canada",
+                            "code": "CAN",
+                            "position": "home",
+                            "country": {
+                                "id": "1iaoypzp6syf32cz9l15pzp7e",
+                                "name": "Canada"
+                            }
+                        },
+                        {
+                            "id": "avggs3u2b5cu8i1dnzknhth52",
+                            "name": "Morocco",
+                            "shortName": "Morocco",
+                            "officialName": "Morocco",
+                            "code": "MAR",
+                            "position": "away",
+                            "country": {
+                                "id": "2xdcc39z1k79pnjbtn9x31wdh",
+                                "name": "Morocco"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "53k2jruppictgbhfjjbf0yg6i",
+                        "neutral": "yes",
+                        "longName": "Al Thumama Stadium",
+                        "shortName": "Al Thumama Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "a3eystf6qgau4ae1dszmto8ic",
+                    "coverageLevel": "15",
+                    "date": "2022-12-01Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-12-01",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-25T18:57:52Z",
+                    "description": "Croatia vs Belgium",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b55kgufahji5uz4rq0ps920a",
+                        "formatId": "ckc8s9q7mlwzwp8hhr4s5ds5x",
+                        "name": "Group F"
+                    },
+                    "contestant": [
+                        {
+                            "id": "4njsfszcgd9m765d6suktsz2a",
+                            "name": "Croatia",
+                            "shortName": "Croatia",
+                            "officialName": "Croatia",
+                            "code": "CRO",
+                            "position": "home",
+                            "country": {
+                                "id": "37hlakrwxyuzovaeoo4sezusp",
+                                "name": "Croatia"
+                            }
+                        },
+                        {
+                            "id": "pfvmhackqyhhk02majd2tb8l",
+                            "name": "Belgium",
+                            "shortName": "Belgium",
+                            "officialName": "Belgium",
+                            "code": "BEL",
+                            "position": "away",
+                            "country": {
+                                "id": "4wbzjcclyefma1ourvjsu4q2j",
+                                "name": "Belgium"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "292la5hvc3yu9otu0vuw9f5gq",
+                        "neutral": "yes",
+                        "longName": "Ahmad bin Ali Stadium",
+                        "shortName": "Ahmad bin Ali Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "8jpdbq72twug6v7a3f3fi9p90",
+                    "coverageLevel": "15",
+                    "date": "2022-11-30Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-11-30",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-22T07:58:50Z",
+                    "description": "Saudi Arabia vs Mexico",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b276xk9cbih5cwc62azajalm",
+                        "formatId": "cipycsizrs0x62qgt93uy6thx",
+                        "name": "Group C"
+                    },
+                    "contestant": [
+                        {
+                            "id": "9l4imoomrnyceg5u3kdxf5l5r",
+                            "name": "Saudi Arabia",
+                            "shortName": "Saudi Arabia",
+                            "officialName": "Saudi Arabia",
+                            "code": "KSA",
+                            "position": "home",
+                            "country": {
+                                "id": "639nv0r2ixeusx4nzqyzb5iuq",
+                                "name": "Saudi Arabia"
+                            }
+                        },
+                        {
+                            "id": "4vofb84dzb5fyc81n2ssws6ah",
+                            "name": "Mexico",
+                            "shortName": "Mexico",
+                            "officialName": "Mexico",
+                            "code": "MEX",
+                            "position": "away",
+                            "country": {
+                                "id": "5trdr3jf42i20zj1hnkvcytr6",
+                                "name": "Mexico"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "5cq7hv0jvig8sx92r7weceh62",
+                        "neutral": "yes",
+                        "longName": "Lusail Iconic Stadium",
+                        "shortName": "Lusail Iconic Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "7wu5w4mfdu4q7p1gtw2rtxvdg",
+                    "coverageLevel": "15",
+                    "date": "2022-11-30Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-11-30",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-20T10:24:43Z",
+                    "description": "Poland vs Argentina",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b276xk9cbih5cwc62azajalm",
+                        "formatId": "cipycsizrs0x62qgt93uy6thx",
+                        "name": "Group C"
+                    },
+                    "contestant": [
+                        {
+                            "id": "ba25ib8pofxr85hkbs8lt7kw7",
+                            "name": "Poland",
+                            "shortName": "Poland",
+                            "officialName": "Poland",
+                            "code": "POL",
+                            "position": "home",
+                            "country": {
+                                "id": "27baqb7359ywdvsxxklx1kn11",
+                                "name": "Poland"
+                            }
+                        },
+                        {
+                            "id": "ak48fkypnql8y4n69cvcq5ghc",
+                            "name": "Argentina",
+                            "shortName": "Argentina",
+                            "officialName": "Argentina",
+                            "code": "ARG",
+                            "position": "away",
+                            "country": {
+                                "id": "2vovxa97k7v7ofa85dah2xktb",
+                                "name": "Argentina"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "ccxksc0gfqdkylx68cq5pqpuy",
+                        "neutral": "yes",
+                        "longName": "Stadium 974",
+                        "shortName": "Stadium 974"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "do8iptn2hyb8i1g1fq1psubkk",
+                    "coverageLevel": "15",
+                    "date": "2022-11-30Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-11-30",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-10-11T11:23:35Z",
+                    "description": "Australia vs Denmark",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b385dngal11r76op1zhozbsa",
+                        "formatId": "cj9uw0tk6lcyj5rieqpmrvys5",
+                        "name": "Group D"
+                    },
+                    "contestant": [
+                        {
+                            "id": "bl4fd8cxe6kjvjx8br82gkhnq",
+                            "name": "Australia",
+                            "shortName": "Australia",
+                            "officialName": "Australia",
+                            "code": "AUS",
+                            "position": "home",
+                            "country": {
+                                "id": "u5ieemi69z72c3bgczyy68lo",
+                                "name": "Australia"
+                            }
+                        },
+                        {
+                            "id": "akblgvrthxxgta4ou9lnslxgb",
+                            "name": "Denmark",
+                            "shortName": "Denmark",
+                            "officialName": "Denmark",
+                            "code": "DEN",
+                            "position": "away",
+                            "country": {
+                                "id": "5adf60vwiw2f2mibyq1k4ex7i",
+                                "name": "Denmark"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7or95b84kjah4tlr61yvhj622",
+                        "neutral": "yes",
+                        "longName": "Al Janoub Stadium",
+                        "shortName": "Al Janoub Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "d0cuxth50n6ei4vr5msou1st0",
+                    "coverageLevel": "15",
+                    "date": "2022-11-30Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-11-30",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T10:57:31Z",
+                    "description": "Tunisia vs France",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b385dngal11r76op1zhozbsa",
+                        "formatId": "cj9uw0tk6lcyj5rieqpmrvys5",
+                        "name": "Group D"
+                    },
+                    "contestant": [
+                        {
+                            "id": "ctp7ovvf34m7fzshua9ogbr6i",
+                            "name": "Tunisia",
+                            "shortName": "Tunisia",
+                            "officialName": "Tunisia",
+                            "code": "TUN",
+                            "position": "home",
+                            "country": {
+                                "id": "2um1icx6ftp1auliaxyw0ou6y",
+                                "name": "Tunisia"
+                            }
+                        },
+                        {
+                            "id": "4pz87gsel7183b7kcadw1dwzv",
+                            "name": "France",
+                            "shortName": "France",
+                            "officialName": "France",
+                            "code": "FRA",
+                            "position": "away",
+                            "country": {
+                                "id": "7gww28djs405rfga69smki84o",
+                                "name": "France"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7qbg8it4erprkiep3asif0i22",
+                        "neutral": "yes",
+                        "longName": "Education City Stadium",
+                        "shortName": "Education City Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "2m2oexgxa7jsm96xazvx2gf10",
+                    "coverageLevel": "15",
+                    "date": "2022-11-29Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-11-29",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T15:52:53Z",
+                    "description": "Iran vs United States",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b1930z6tow4xzg7wtpoy47sa",
+                        "formatId": "ci6ciikoil0ifcuis37z8h7md",
+                        "name": "Group B"
+                    },
+                    "contestant": [
+                        {
+                            "id": "cubclbw5k5gdqdau95bnav0nn",
+                            "name": "Iran",
+                            "shortName": "Iran",
+                            "officialName": "Iran",
+                            "code": "IRN",
+                            "position": "home",
+                            "country": {
+                                "id": "e53g9hr2d3kasm34uumbg8r4",
+                                "name": "Iran"
+                            }
+                        },
+                        {
+                            "id": "9vh2u1p4ppm597tjfahst2m3n",
+                            "name": "United States",
+                            "shortName": "United States",
+                            "officialName": "United States",
+                            "code": "USA",
+                            "position": "away",
+                            "country": {
+                                "id": "7hr2f89v44y65dyu9k92vprwn",
+                                "name": "USA"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "53k2jruppictgbhfjjbf0yg6i",
+                        "neutral": "yes",
+                        "longName": "Al Thumama Stadium",
+                        "shortName": "Al Thumama Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "1rk98okqqlqxpk8bog302d3pw",
+                    "coverageLevel": "15",
+                    "date": "2022-11-29Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-11-29",
+                    "localTime": "22:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T19:52:35Z",
+                    "description": "Wales vs England",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b1930z6tow4xzg7wtpoy47sa",
+                        "formatId": "ci6ciikoil0ifcuis37z8h7md",
+                        "name": "Group B"
+                    },
+                    "contestant": [
+                        {
+                            "id": "eyhp0bgsz2deg91xaw4zotn5c",
+                            "name": "Wales",
+                            "shortName": "Wales",
+                            "officialName": "Wales",
+                            "code": "WAL",
+                            "position": "home",
+                            "country": {
+                                "id": "26ilvvgth36hmq6lgq8cy5cb5",
+                                "name": "Wales"
+                            }
+                        },
+                        {
+                            "id": "ck8m1cn23sukwsurgx5qakttk",
+                            "name": "England",
+                            "shortName": "England",
+                            "officialName": "England",
+                            "code": "ENG",
+                            "position": "away",
+                            "country": {
+                                "id": "1fk5l4hkqk12i7zske6mcqju6",
+                                "name": "England"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "292la5hvc3yu9otu0vuw9f5gq",
+                        "neutral": "yes",
+                        "longName": "Ahmad bin Ali Stadium",
+                        "shortName": "Ahmad bin Ali Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "9u7rvy04f3k3142jvw0wr8u8k",
+                    "coverageLevel": "15",
+                    "date": "2022-11-29Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-11-29",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-22T14:25:17Z",
+                    "description": "Ecuador vs Senegal",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b0dqo56ran2uw0m2lddm63qi",
+                        "formatId": "choy4837jf63m90uh34q2jmxh",
+                        "name": "Group A"
+                    },
+                    "contestant": [
+                        {
+                            "id": "2j2402oabiovxw24cnjk9m369",
+                            "name": "Ecuador",
+                            "shortName": "Ecuador",
+                            "officialName": "Ecuador",
+                            "code": "ECU",
+                            "position": "home",
+                            "country": {
+                                "id": "6pyj2bytt2osbjk69owzfehcg",
+                                "name": "Ecuador"
+                            }
+                        },
+                        {
+                            "id": "2wk1549tkz80oet8226euj7jp",
+                            "name": "Senegal",
+                            "shortName": "Senegal",
+                            "officialName": "Senegal",
+                            "code": "SEN",
+                            "position": "away",
+                            "country": {
+                                "id": "6hhqyhr5cwq2pfprlazyposyk",
+                                "name": "Senegal"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "x2io384gn9dj0kya08mj5k1u",
+                        "neutral": "yes",
+                        "longName": "Khalifa International Stadium",
+                        "shortName": "Khalifa International Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "92m5u8bccair120ftajyvayvo",
+                    "coverageLevel": "15",
+                    "date": "2022-11-29Z",
+                    "time": "15:00:00Z",
+                    "localDate": "2022-11-29",
+                    "localTime": "18:00:00",
+                    "week": "3",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T17:52:55Z",
+                    "description": "Netherlands vs Qatar",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b0dqo56ran2uw0m2lddm63qi",
+                        "formatId": "choy4837jf63m90uh34q2jmxh",
+                        "name": "Group A"
+                    },
+                    "contestant": [
+                        {
+                            "id": "657oha8nkne1ybba2bouzkbo7",
+                            "name": "Netherlands",
+                            "shortName": "Netherlands",
+                            "officialName": "Netherlands",
+                            "code": "NED",
+                            "position": "home",
+                            "country": {
+                                "id": "6hzi5pltnz67q4la8yli9qfv6",
+                                "name": "Netherlands"
+                            }
+                        },
+                        {
+                            "id": "ea68amhsn28ijs7bzjuzeqrz6",
+                            "name": "Qatar",
+                            "shortName": "Qatar",
+                            "officialName": "Qatar",
+                            "code": "QAT",
+                            "position": "away",
+                            "country": {
+                                "id": "1evdpix889bnpu5wgh6ae7kng",
+                                "name": "Qatar"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "4qp4xb6wue95zgjwkt9tx0rmx",
+                        "neutral": "yes",
+                        "longName": "Al Bayt Stadium",
+                        "shortName": "Al Bayt Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "4agtnd9r89kfnpk27y7abn6z8",
+                    "coverageLevel": "15",
+                    "date": "2022-11-28Z",
+                    "time": "19:00:00Z",
+                    "localDate": "2022-11-28",
+                    "localTime": "22:00:00",
+                    "week": "2",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-22T18:09:37Z",
+                    "description": "Portugal vs Uruguay",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b7aed2o7jq1huldd1gijt9wq",
+                        "formatId": "cmb6lscxiyticnqnsarymfkr9",
+                        "name": "Group H"
+                    },
+                    "contestant": [
+                        {
+                            "id": "8gxg8f7p9299jbrz30u8bsc7g",
+                            "name": "Portugal",
+                            "shortName": "Portugal",
+                            "officialName": "Portugal",
+                            "code": "POR",
+                            "position": "home",
+                            "country": {
+                                "id": "1nbm5i9a0403zzvltn17lxinc",
+                                "name": "Portugal"
+                            }
+                        },
+                        {
+                            "id": "9l06impjllgop0gte8fldb4zo",
+                            "name": "Uruguay",
+                            "shortName": "Uruguay",
+                            "officialName": "Uruguay",
+                            "code": "URU",
+                            "position": "away",
+                            "country": {
+                                "id": "286fwlvd6dzntv6ewv3cyvb0p",
+                                "name": "Uruguay"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "5cq7hv0jvig8sx92r7weceh62",
+                        "neutral": "yes",
+                        "longName": "Lusail Iconic Stadium",
+                        "shortName": "Lusail Iconic Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "dyknehdqoyrb50xd7orsjcx78",
+                    "coverageLevel": "15",
+                    "date": "2022-11-28Z",
+                    "time": "16:00:00Z",
+                    "localDate": "2022-11-28",
+                    "localTime": "19:00:00",
+                    "week": "2",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-27T17:35:06Z",
+                    "description": "Brazil vs Switzerland",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b6977bz0bribm52ke6ll5o4q",
+                        "formatId": "ckw6rfrzidje6ggngkljf8e6t",
+                        "name": "Group G"
+                    },
+                    "contestant": [
+                        {
+                            "id": "ajab3nmpoltsoeqcuoyi4pwzx",
+                            "name": "Brazil",
+                            "shortName": "Brazil",
+                            "officialName": "Brazil",
+                            "code": "BRA",
+                            "position": "home",
+                            "country": {
+                                "id": "2vufyvpoxd9lfl9f6vpp7tz6y",
+                                "name": "Brazil"
+                            }
+                        },
+                        {
+                            "id": "339wxbt07ltnva7hop6m5o477",
+                            "name": "Switzerland",
+                            "shortName": "Switzerland",
+                            "officialName": "Switzerland",
+                            "code": "SUI",
+                            "position": "away",
+                            "country": {
+                                "id": "3bh70jgvc5mn58x0byjkuda17",
+                                "name": "Switzerland"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "ccxksc0gfqdkylx68cq5pqpuy",
+                        "neutral": "yes",
+                        "longName": "Stadium 974",
+                        "shortName": "Stadium 974"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "5ipj0nkzk07krbne8b9f9wkr8",
+                    "coverageLevel": "15",
+                    "date": "2022-11-28Z",
+                    "time": "13:00:00Z",
+                    "localDate": "2022-11-28",
+                    "localTime": "16:00:00",
+                    "week": "2",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-09-23T10:25:23Z",
+                    "description": "Korea Republic vs Ghana",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b7aed2o7jq1huldd1gijt9wq",
+                        "formatId": "cmb6lscxiyticnqnsarymfkr9",
+                        "name": "Group H"
+                    },
+                    "contestant": [
+                        {
+                            "id": "1yghbv1c71b37eenutbwnvvq",
+                            "name": "Korea Republic",
+                            "shortName": "Korea Rep",
+                            "officialName": "Korea Republic",
+                            "code": "KOR",
+                            "position": "home",
+                            "country": {
+                                "id": "4vzpxtqkiwx0puygnmayr74di",
+                                "name": "Korea Republic"
+                            }
+                        },
+                        {
+                            "id": "9bix8nlt6cgbson25qntg2zzh",
+                            "name": "Ghana",
+                            "shortName": "Ghana",
+                            "officialName": "Ghana",
+                            "code": "GHA",
+                            "position": "away",
+                            "country": {
+                                "id": "2q2sw72utw5gu9t5y4knckwba",
+                                "name": "Ghana"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7qbg8it4erprkiep3asif0i22",
+                        "neutral": "yes",
+                        "longName": "Education City Stadium",
+                        "shortName": "Education City Stadium"
+                    }
+                }
+            },
+            {
+                "matchInfo": {
+                    "id": "ek8qzqnynkcdltx07vk91ekus",
+                    "coverageLevel": "15",
+                    "date": "2022-11-28Z",
+                    "time": "10:00:00Z",
+                    "localDate": "2022-11-28",
+                    "localTime": "13:00:00",
+                    "week": "2",
+                    "numberOfPeriods": 2,
+                    "periodLength": 45,
+                    "lastUpdated": "2022-10-13T18:52:11Z",
+                    "description": "Cameroon vs Serbia",
+                    "sport": {
+                        "id": "289u5typ3vp4ifwh5thalohmq",
+                        "name": "Soccer"
+                    },
+                    "ruleset": {
+                        "id": "79plas4983031idr6vw83nuel",
+                        "name": "Men"
+                    },
+                    "competition": {
+                        "id": "70excpe1synn9kadnbppahdn7",
+                        "name": "World Cup",
+                        "competitionCode": "WOC",
+                        "competitionFormat": "International cup",
+                        "country": {
+                            "id": "7yasa43laq1nb2e6f8bfuvxed",
+                            "name": "World"
+                        }
+                    },
+                    "tournamentCalendar": {
+                        "id": "2a8elwzsufmguwymxbshcx756",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-18Z",
+                        "name": "2022 Qatar"
+                    },
+                    "stage": {
+                        "id": "2awryriz2besyqksnv5o9db3e",
+                        "formatId": "86p6pz5rcsdbz4cklvfwtzrv9",
+                        "startDate": "2022-11-20Z",
+                        "endDate": "2022-12-02Z",
+                        "name": "Group Stage"
+                    },
+                    "series": {
+                        "id": "2b6977bz0bribm52ke6ll5o4q",
+                        "formatId": "ckw6rfrzidje6ggngkljf8e6t",
+                        "name": "Group G"
+                    },
+                    "contestant": [
+                        {
+                            "id": "b6ojzaz5yyr6dkrj284hrhhs1",
+                            "name": "Cameroon",
+                            "shortName": "Cameroon",
+                            "officialName": "Cameroon",
+                            "code": "CMR",
+                            "position": "home",
+                            "country": {
+                                "id": "4eb9feio6u267dd1jcwaf38mt",
+                                "name": "Cameroon"
+                            }
+                        },
+                        {
+                            "id": "2ome9qbio8c3r9lmhx2hg6kif",
+                            "name": "Serbia",
+                            "shortName": "Serbia",
+                            "officialName": "Serbia",
+                            "code": "SRB",
+                            "position": "away",
+                            "country": {
+                                "id": "5w4ve503bjdsshwx9ho6jxzx0",
+                                "name": "Serbia"
+                            }
+                        }
+                    ],
+                    "venue": {
+                        "id": "7or95b84kjah4tlr61yvhj622",
+                        "neutral": "yes",
+                        "longName": "Al Janoub Stadium",
+                        "shortName": "Al Janoub Stadium"
+                    }
+                }
+            }
+        ]
+    }
+}

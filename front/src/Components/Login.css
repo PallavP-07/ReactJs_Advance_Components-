@@ -1,0 +1,80 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/5d/75/39/5d7539ba356a1e4a76033199793caee4.jpg");
+}
+.Logindiv{
+  
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    margin: auto;
+    background-color: white;
+}
+
+.timeshetimg{
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+.limg{
+    width: 100%;
+    height: 100vh;
+}
+
+.Logpage{
+    display: flex;
+    width: 100%;
+
+}
+
+.Firsthading1{
+    text-decoration: none;
+}
+
+.btn{
+    background-color: #4B7BE5;
+    color: white;
+    border: 1px solid #4B7BE5 ;
+    width: 100px;
+    height: 40px;
+    border-radius: 5%;
+
+  }
+.Heading{
+    float: right;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+
+
+.form-controlrr{
+    border: none;
+    width: 80px;
+    height: 40px;
+}
+
+.Dashbordcontainer{
+    width: 20%;
+    height: 100vh;
+    background-color: white;
+    color: black;
+
+
+}
+
+.dashbord_item{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+
+}
+
+.Loginimg{
+    font-size: 3rem;
+}

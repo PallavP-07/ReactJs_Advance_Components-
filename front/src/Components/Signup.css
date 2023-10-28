@@ -1,0 +1,52 @@
+
+
+.SignupForm{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+  
+
+}
+.MainBox{
+    margin-top: 50%;
+    width: 50%;
+    height: 60%;
+    margin: auto;
+    /* padding: 10px 10px 10px 10px; */
+    border-radius: 5%;
+  
+   
+   
+}
+
+
+
+.Signupmainbox{
+  display: flex;
+}
+
+input:required + span:after {
+    content: "Can Not Be Empty";
+  }
+
+  .adminlogo{
+    font-size: 2rem;
+  
+  }
+  .btn{
+    background-color: #4B7BE5;
+    color: white;
+    border: 1px solid #4B7BE5 ;
+    width: 100px;
+    height: 40px;
+    border-radius: 5%;
+
+  }
+  .box1{
+    margin-bottom:-5em;
+  }
+  .adminimg{
+    
+    width: 100%;
+    height: 100%;
+  }

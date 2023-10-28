@@ -1,0 +1,147 @@
+.Toggle-Button {
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.Toggle-Button-Border {
+    text-align: center;
+}
+
+.Toggle-Button-Border2 {
+    width: 273px;
+    text-align: center;
+}
+
+.Stagesption {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.Instructions {
+
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.date {
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.Point {
+
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.PrivacyPolicy {
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    color: #000000;
+    margin-top: 40px
+}
+
+.DropDown {
+    background-color: #002B98 !important;
+}
+
+.tabstyle {
+    background-color: white;
+}
+
+.tabcard {
+    border: 1px solid #E3E3E3;
+    background-color: white;
+}
+
+.inputboxstyle .ant-input {
+    font-size: 18px;
+    color: black;
+}
+
+/* .knockdropdown {
+    width: 200px;
+} */
+
+.knockdropdown .css-14el2xx-placeholder {
+    white-space: nowrap;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
+
+.pick6dropdown .css-14el2xx-placeholder {
+    white-space: nowrap;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
+
+.dropdown-container .css-319lph-ValueContainer {
+    width: 140px;
+}
+
+.pick6matchdropdown .css-14el2xx-placeholder {
+    white-space: nowrap;
+    width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
+
+.predictionImage {
+    width: 50px;
+    height: 50px;
+}
+
+.arrowcolor .ant-select-selection-item {
+    color: black;
+}
+
+.predictcontent {
+    height: 7rem;
+}
+
+.footercontent {
+    height: 4rem;
+    border-top: 1px solid;
+}
+
+.footercontent .vl {
+    height: 3rem;
+    border-left: 1px solid;
+}
+
+/* .pick6dropdown {
+    width: 200px;
+} */
+
+/* .groupstage{
+    width: 200px;
+} */
+
+.groupstage .css-14el2xx-placeholder {
+    white-space: nowrap;
+    width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+}
